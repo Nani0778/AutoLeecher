@@ -7,3 +7,5 @@ class Config(Config):
     API_HASH = "10bc5c7771a121c180ab8859ab438bb8"
     OWNER_ID = "1101776571"
     AUTH = [1101776571]
+    FINISHED_PROGRESS_STR = "█"
+    UN_FINISHED_PROGRESS_STR ="░"
